@@ -2,4 +2,5 @@
 * Only has one function! SendPlayerMessageToCleverbot(playerid,"Message");
 * This supports Cleverbot, Jabberwacky and Pandorabots.
 * Easy to edit!
-* You don't need to host the PHP files if you don't want to but I recommend that you do it!
+
+Topic & more info: http://forum.sa-mp.com/showthread.php?p=1657118
